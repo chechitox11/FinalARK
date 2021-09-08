@@ -19,7 +19,7 @@ public class Juego {
             
         }   
         for(int i=0;i<teamBSize;i++){
-            teamB.add(new Soldier(r.nextInt(200), r.nextInt(100), "B"));
+            teamB.add(new Soldier(r.nextInt(100), r.nextInt(50), "B"));
         }      
     }
     

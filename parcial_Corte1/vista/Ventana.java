@@ -13,7 +13,7 @@ public class Ventana extends JFrame {
         private Panel panel=new Panel();
         private JButton boton = new JButton("Start");
         private JButton boton2= new JButton("Siguiente Turno");
-        private JButton boton3= new JButton("");
+        private JButton boton3= new JButton("elegir lugar");
         
         
         public Ventana() {
